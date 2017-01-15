@@ -4,7 +4,7 @@ Parallel Computing with CUDA
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/d/d7/NVIDIA-CUDA.jpg)
 
 ### Textbook:
-![alt tag](http://t0.gstatic.com/images?q=tbn:ANd9GcTUrzyYdkXQS0w-I7QWOq3eqZjMCPW4kjDvxoQdbtXhZ9-Eiaau)
+![alt tag](http://media.wiley.com/product_data/coverImage300/29/11187393/1118739329.jpg)
 
 
 ### Useful Udacity Lecture: 
