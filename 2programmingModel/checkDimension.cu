@@ -2,10 +2,14 @@
 #include <cuda_runtime.h>
 #include <stdio.h>
 
+
+
 /*
  * Display the dimensionality of a thread block and grid from the host and
  * device.
  */
+
+
 
 __global__ void checkIndex(void)
 {
@@ -16,6 +20,10 @@ __global__ void checkIndex(void)
     printf("gridDim:(%d, %d, %d)\n", gridDim.x, gridDim.y, gridDim.z);
 
 }
+
+
+
+
 
 int main(int argc, char **argv)
 {
