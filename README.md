@@ -6,8 +6,9 @@ Parallel Computing with CUDA
 ### Textbook:
 ![alt tag](http://media.wiley.com/product_data/coverImage300/29/11187393/1118739329.jpg)
 
+* Source codes are available at: http://www.wrox.com/WileyCDA/WroxTitle/Professional-CUDA-C-Programming.productCd-1118739329.html
 
-### Useful Udacity Lecture: 
+### Useful Udacity Lectures: 
 1. Introduction to parallel Programming with cuda (Udacity): https://www.udacity.com/course/intro-to-parallel-programming--cs344
 2. High Performance Computing from (Udacity): https://www.udacity.com/course/high-performance-computing--ud281
 3. High Performance Computer Architecture (Udacity): https://www.udacity.com/course/high-performance-computer-architecture--ud007
