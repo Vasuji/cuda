@@ -24,9 +24,14 @@ Parallel Computing with CUDA
 ### Reference books:
 
 1. Deep Belief Nets in C++ and CUDA C: Volume 1: Restricted Boltzmann Machines and Supervised Feedforward Networks 
+
 ![1](https://images-na.ssl-images-amazon.com/images/I/61vbG9dHq7L._SX382_BO1,204,203,200_.jpg)
+
 * Deep Belief Nets in C++ and CUDA C: Volume II: Autoencoding in the Complex Domain (Volume 2)
+
 ![2](https://images-na.ssl-images-amazon.com/images/I/51SUlMMj7OL._SX382_BO1,204,203,200_.jpg)
+
 * Deep Belief Nets in C++ and CUDA C: Volume III: Convolutional Nets (Volume 3) 
+
 ![3](https://images-na.ssl-images-amazon.com/images/I/51vgI%2BdhsfL._SX382_BO1,204,203,200_.jpg)
 
