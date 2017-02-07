@@ -21,5 +21,8 @@ Parallel Computing with CUDA
 4. Cuda Architecture: https://code.msdn.microsoft.com/windowsdesktop/NVIDIA-GPU-Architecture-45c11e6d
 5. grand_course: https://www.youtube.com/watch?v=F620ommtjqk&index=1&list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_
 
+### Reference books:
 
+1. 
+![a](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51vgI%252BdhsfL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FDeep-Belief-Nets-CUDA-Convolutional%2Fdp%2F1530895189&docid=nQ-gbilZ1K3BlM&tbnid=sQpxoAP6MDXyZM%3A&vet=1&w=384&h=500&bih=1224&biw=1515&q=Deep%20Belief%20Nets%20in%20C%2B%2B%20and%20CUDA%20C%3A%20Volume%20III%3A%20Convolutional%20Nets%20(Volume%203)&ved=0ahUKEwjPlde2mv7RAhVMTCYKHT-wA7YQMwgcKAAwAA&iact=mrc&uact=8)
 
